@@ -9,23 +9,36 @@ font-family : arial;
 }
 
 h1
-{
-tipo de letra: fun;
-color : green;
-font-size: 30pt;
+{   
+    background-image: linear-gradient(270deg, red, yellow );
+    background-color: aqua;
+    color: black;
+    font-size: 30pt;
+    font-family:Arial;
+    text-align: center;
 }
 
 h2
 {
-tipo de letra: fun;
-cor da letra: green;
-tamanho da letra: 20pt;
+    color: black;
+    font-size: 20pt;
+    font-family:Arial;
+    text-align: center;
+}
+
+li
+{
+    color: black;
+    font-size: 20pt;
+    font-family:Arial;
+    text-align: center;
 }
 
 a
 {
-tipo de letra: arial;
-cor da letra: blue;
-tamanho: 15pt;
-sem linhas sublinhadas
-}
+    color: blue;
+    font-size: 20pt;
+    font-family:Arial;
+    text-align: center;
+    text-decoration: none;
+} 
