@@ -1,0 +1,31 @@
+@charset "YTF-8';
+
+body
+{
+background-color : blue;
+color : red
+font-size: 13pt
+font-family : arial;
+}
+
+h1
+{
+tipo de letra: fun;
+color : green;
+font-size: 30pt;
+}
+
+h2
+{
+tipo de letra: fun;
+cor da letra: green;
+tamanho da letra: 20pt;
+}
+
+a
+{
+tipo de letra: arial;
+cor da letra: black;
+tamanho: 15pt;
+sem linhas sublinhadas
+}
